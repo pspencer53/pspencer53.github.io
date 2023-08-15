@@ -5,7 +5,7 @@ Found a new oprogram for documenting using ASCII characters only.
 
 http://asciiFlow.com
 
-/*
+`
 ◄───────────┐
             │  ┌───────────────────────────►
             │  │
@@ -19,4 +19,4 @@ http://asciiFlow.com
         │               │                      Test Text
         │               │
         └───────────────┘
-*/
+`
