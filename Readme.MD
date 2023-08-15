@@ -6,27 +6,15 @@ Found a new oprogram for documenting using ASCII characters only.  It is GIT fri
 http://asciiFlow.com
 
 ◄───────────┐
-
             │  ┌───────────────────────────►
-
             │  │
-
             │  │
-
      ▲  ┌───┴──┴────────┐        ▲
-
      │  │               │        │
-
      │  │               ├────────┘
-
      │  │               │
-
      └──┤               ├────────────────────────────────►
-
         │               │
-
         │               │                      Test Text
-
         │               │
-
         └───────────────┘
