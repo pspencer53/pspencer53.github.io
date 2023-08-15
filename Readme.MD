@@ -22,11 +22,13 @@ http://asciiFlow.com
 
 
 **Imbeded Graphics
-<a href="MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg"><img src="MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg" class="w3-round-small" width="50%"></a><br>
+![alt text][logo1]
+![alt text][logo2]
+![alt text][logo3]
 
-[logo](https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg "MikroTik")
-[logo](https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/Cisco-2960-Series-003x1024.jpg "Cisco-2960-Series")
-[logo](https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/D-Link-002.jpg "D-Link")
+[logo1]:(https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg "MikroTik"
+[logo2]:(https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/Cisco-2960-Series-003x1024.jpg "Cisco-2960-Series"
+[logo3]:(https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/D-Link-002.jpg "D-Link"
 
 ***
 ![alt text](https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/Sophos-003x1024.jpg "")
