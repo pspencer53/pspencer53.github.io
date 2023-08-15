@@ -22,6 +22,7 @@ http://asciiFlow.com
 
 
 **Imbeded Graphics
+<a href="MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg"><img src="MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg" class="w3-round-small" width="50%"></a><br>
 
 [logo](https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/MikroTik-RouterBOARD-CRS112-8G-4S-IN.000-B.jpg "MikroTik")
 [logo](https://github.com/pspencer53/pspencer53.github.io/blob/main/graphics/Cisco-2960-Series-003x1024.jpg "Cisco-2960-Series")
